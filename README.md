@@ -1,5 +1,4 @@
-# North-Wind-SQLAdd commentMore actions
-# 🗄️ **Retail Sales Database - SQL** 💾  
+# North-Wind-SQL 
 
 ## 🎯 **Project Overview**  
 This project showcases **SQL-driven database creation and management**, providing insights into **retail sales, transaction trends, and product performance**. By leveraging SQL queries, data manipulation techniques, and analytical commands, this project delivers structured and actionable business intelligence!  
